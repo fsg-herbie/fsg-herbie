@@ -1,4 +1,4 @@
-<img align='right' src='https://avatars.githubusercontent.com/u/14324693?v=4' width='200'>
+<img align='right' src='https://wala.link/2022/12/04/f3bc9a6ab1df6efd54f456bba726d359.gif' width='300'>
 
 ### 你好，欢迎来到我的GitHub!
 
