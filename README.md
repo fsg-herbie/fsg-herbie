@@ -1,13 +1,17 @@
+<img align='right' src='https://avatars.githubusercontent.com/u/14324693?v=4' width='200'>
+
 ### 你好，欢迎来到我的GitHub!
+
 - 昵称：全栈坟坑
 - 职业：全栈工程师
 - 微信：oHUANG_BINo
 - QQ：280684602
 - 喜欢：科研-网络安全-肝
 
+### 简介
 哈喽，我是一名全栈工程师，至今工作已有10余年，所谓的全栈，就是一个人干完全端（前端、后端、运维）还有就是肝，至今"肝"过大大小小项目百余个，涉及过各行各业，"肝"过单台运营中服务器10万并发/s，单台服务器亿级数据毫秒查询，前面把所有的时间都花在了学习和工作，以至于我没有任何时间摸鱼和完善我的社区影响度，后面也该为我自己考虑，会慢慢完善我的开源贡献和社区，毕竟慢慢的就老了。
 
->欢迎各位道友，有开源的项目，有需要我帮忙开发的，私信我，当然，有需要有偿开发的，也可以找我，可以搞定各种疑难杂症。
+> 欢迎各位道友，有开源的项目，有需要我帮忙开发的，私信我，当然，有需要有偿开发的，也可以找我，可以搞定各种疑难杂症。
 
 我掌握的语言 | ![PHP](https://img.shields.io/badge/PHP-语言-blue) ![PYTHON](https://img.shields.io/badge/PYTHON-语言-blue) ![JAVA](https://img.shields.io/badge/JAVA-语言-blue) ![ANDROID](https://img.shields.io/badge/ANDROID-语言-blue) ![Objective](https://img.shields.io/badge/Objective-语言-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-语言-blue)|
 |-|-|
