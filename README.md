@@ -1,4 +1,4 @@
-<img align='right' src='https://wala.link/2022/12/04/f3bc9a6ab1df6efd54f456bba726d359.gif' width='300'>
+<img align='right' src='https://www.wala.la/images/2023/08/04/5d1b4f0bc20f422624d65148c5a89f01.gif' width='300'>
 
 ### 你好，欢迎来到我的GitHub!
 
